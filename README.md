@@ -6,7 +6,7 @@ Utilidades para trabajar con agentes de IA.
 
 Reconstruye, paso a paso, lo que hizo un agente de *Antigravity* en una sesión, a partir de los registros que la propia herramienta guarda en disco.
 
-Lo escribí para el artículo [Modelo, motor y agente: de quién es el fallo](https://elartesanodelbyte.com/desarrollo-asistido-por-ia/modelo-motor-agente/). Necesitaba separar qué hizo el modelo, qué hizo el motor y qué venía de mi configuración, sin navegar entre decenas de directorios con nombres de hash.
+Lo escribí para el artículo [Modelo, motor y agente: dónde actuar cuando algo falla](https://elartesanodelbyte.com/desarrollo-asistido-por-ia/modelo-motor-agente/). Necesitaba separar qué hizo el modelo, qué hizo el motor y qué venía de mi configuración, sin navegar entre decenas de directorios con nombres de hash.
 
 ### Uso
 
